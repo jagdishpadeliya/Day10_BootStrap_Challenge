@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.hdr{
+    background-color: rgb(84,192,166);
+}
+.hdr img{
+    height: 50px;
+    width: 50px;
+}
+.ftr{
+    background-color: rgb(215,219,214);
+}
+
+.main-content{
+    background-color: rgb(255,255,255);
+    transform: translateY(-25%);
+}
